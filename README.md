@@ -4,7 +4,7 @@
 
 ## Live Site Link:
 
-### View Site HERE! >>> [Link](libraryreact-app.herokuapp.com/)
+### View Site HERE! >>> [Link](https://libraryreact-app.herokuapp.com/)
 
 ## Demo Preview
 [![Watch the video](https://user-images.githubusercontent.com/52459612/181833027-bbb32f4c-1fbf-473a-b233-010fca78d821.JPG)
